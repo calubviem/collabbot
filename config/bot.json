@@ -1,0 +1,44 @@
+{
+	"name": "fuckbot",
+	"vms": [
+		"192.151.157.114:6004"
+	],
+	"deniedcommands": [
+			"start",
+			"cmd",
+			"wmic",
+			"del",
+			"rd",
+			"shutdown",
+			"reg",
+			"taskkill",
+			"tskill",
+			"mountvol",
+			"powershell",
+			"wininit",
+			"goto",
+			"%0|%0",
+			"msg",
+			"net",
+			"net1",
+			"rundll32",
+			"devil",
+			"fuck"
+	],
+
+	"whitelist" : [
+		"thefleebs",
+		"CHOCOLATEMAN",
+		"urlogic",
+		"ir0nlake",
+		"hitormiss",
+		"cucksucker",
+		"kubapolish",
+		"name"
+	],
+
+	"asshats" : [
+		"DFU"
+	]
+
+}
