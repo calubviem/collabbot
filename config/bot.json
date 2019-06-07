@@ -1,7 +1,7 @@
 {
 	"name": "fuckbot",
 	"vms": [
-		"192.151.157.114:6004"
+		"computernewb.com:6005"
 	],
 	"deniedcommands": [
 			"start",
